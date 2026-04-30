@@ -1,0 +1,12 @@
+Educational Use License
+
+Copyright (c) 2026
+
+Permission is hereby granted to any person obtaining a copy of this software and associated files (the "Project"), to use the Project for personal, educational, and non-commercial purposes only, subject to the following conditions:
+
+1. The Project may not be used for any illegal, deceptive, or malicious purposes.
+2. The Project may not be used to impersonate, mislead, or exploit users.
+3. The Project must not be used for phishing, unauthorized data collection, or harmful web activity.
+4. Redistribution is allowed only if this license and disclaimer are included.
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIMS, DAMAGES, OR MISUSE ARISING FROM ITS USE.
