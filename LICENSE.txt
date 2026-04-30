@@ -1,12 +1,41 @@
-Educational Use License
+EDUCATIONAL CYBERSECURITY & RESEARCH LICENSE
 
-Copyright (c) 2026
+Copyright (c) 2026 nettrack3r
 
-Permission is hereby granted to any person obtaining a copy of this software and associated files (the "Project"), to use the Project for personal, educational, and non-commercial purposes only, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Project"), to use,
+copy, modify, and study the Project solely for EDUCATIONAL, RESEARCH, and
+AUTHORIZED SECURITY TESTING PURPOSES, subject to the following conditions:
 
-1. The Project may not be used for any illegal, deceptive, or malicious purposes.
-2. The Project may not be used to impersonate, mislead, or exploit users.
-3. The Project must not be used for phishing, unauthorized data collection, or harmful web activity.
-4. Redistribution is allowed only if this license and disclaimer are included.
+1. STRICTLY EDUCATIONAL USE ONLY
+   The Project may only be used for learning, teaching, cybersecurity education,
+   and authorized security research in controlled environments.
 
-THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT LIABLE FOR ANY CLAIMS, DAMAGES, OR MISUSE ARISING FROM ITS USE.
+2. NO MALICIOUS USE
+   This Project must NOT be used for any illegal, unethical, deceptive, or harmful activities,
+   including but not limited to phishing, impersonation, unauthorized access, surveillance,
+   or data collection.
+
+3. AUTHORIZED ENVIRONMENTS ONLY
+   All testing and experimentation must be conducted in environments that the user owns or
+   has explicit written permission to use (e.g., local machines, virtual labs, sandbox systems).
+
+4. NO REAL-WORLD TARGETING
+   This Project may not be used against live systems, production infrastructure,
+   third-party services, or individuals without explicit authorization.
+
+5. NO WARRANTY
+   THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIABILITY DISCLAIMER
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+
+7. DISTRIBUTION
+   Redistribution and modification are permitted only if this license text is included
+   in full and remains unchanged.
+
+By using this Project, you acknowledge that you understand and agree to these terms.

@@ -1,190 +1,110 @@
-# \# 🌐 FRONTEND WEB PROJECT — EDUCATIONAL SITE
+# 🌐 STATIC WEBSITE PROJECT
 
-# 
+![Purpose](https://img.shields.io/badge/Purpose-Educational-blue)
+![Type](https://img.shields.io/badge/Type-Static%20Website-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Use](https://img.shields.io/badge/Use-Learning%20Only-red)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
-# !\[Purpose](https://img.shields.io/badge/Purpose-Educational-blue)
+---
 
-# !\[Type](https://img.shields.io/badge/Type-Static%20Website-green)
+## 📌 Overview
 
-# !\[Status](https://img.shields.io/badge/Status-Active-success)
+This repository contains a static website project hosted using GitHub Pages.
 
-# !\[Use](https://img.shields.io/badge/Use-Learning%20Only-red)
+It is built for educational and learning purposes only, focusing on understanding how static websites are structured, styled, and deployed.
 
-# !\[License](https://img.shields.io/badge/License-Educational%20Use-lightgrey)
+This project is not affiliated with any organization or platform and is used strictly for development practice.
 
-# 
+---
 
-# \---
+## 🧠 Purpose of This Project
 
-# 
+This repository is used to learn and practice:
 
-# \## 📌 Overview
+- HTML structure and web page creation
+- CSS styling and layout design
+- Multi-page navigation systems
+- Static asset handling (images, CSS files, folders)
+- Git version control workflows
+- GitHub Pages deployment and hosting
 
-# 
+---
 
-# This repository contains a \*\*static frontend web project\*\* built for educational and development purposes.
+## ⚙️ Project Structure
 
-# 
+index.html              → Main landing page  
+/pages                  → Additional site pages  
+/assets                 → CSS, images, and static files  
+README.md               → Project documentation  
+LICENSE                 → Usage license and terms  
 
-# It is intended to demonstrate and practice:
+---
 
-# 
+## 🌐 Live Deployment
 
-# \- HTML structure and page design
+This site is hosted using GitHub Pages.
 
-# \- CSS styling and layout techniques
+Standard URL format:
 
-# \- Multi-page website navigation
+https://nettrack3r.github.io/facebook.github.io/
 
-# \- Static web hosting via GitHub Pages
+---
 
-# \- Basic frontend development workflows
+## ⚠️ Acceptable Use Policy
 
-# 
+This project must NOT be used for:
 
-# This project is strictly for \*\*learning, experimentation, and portfolio development\*\*.
+- Malicious or deceptive websites
+- Phishing or impersonation pages
+- Unauthorized data collection
+- Any illegal activity or harm to users
 
-# 
+This project is strictly for educational use only.
 
-# \---
+---
 
-# 
+## 🧪 Intended Use Environment
 
-# \## 🧠 Educational Purpose
+This project is intended for:
 
-# 
+- Local development testing
+- Web development learning
+- UI/UX experimentation
+- Static site hosting practice
 
-# This project is used to explore:
+Not intended for production or sensitive environments.
 
-# 
+---
 
-# \- Frontend UI/UX design principles
+## ⚖️ Disclaimer
 
-# \- Page routing and navigation
+This project is provided "as-is" without warranty of any kind.
 
-# \- Asset management (CSS, images, static files)
+The author is not responsible for:
 
-# \- Git-based deployment workflows
+- Misuse of the code
+- Third-party actions using this project
+- Damages or legal consequences from usage
+- Security issues caused by improper deployment
 
-# \- GitHub Pages hosting behavior
+Users assume full responsibility for how they use this material.
 
-# 
+---
 
-# No backend systems or data processing are included.
+## 🔒 License
 
-# 
+This project is licensed under an Educational Use Only License.
 
-# \---
+See the LICENSE file for full terms.
 
-# 
+---
 
-# \## ⚠️ Acceptable Use
+## 🧭 Ethical Statement
 
-# 
+This repository exists to support:
 
-# This repository must NOT be used for:
-
-# 
-
-# \- Malicious or deceptive websites
-
-# \- Phishing or impersonation pages
-
-# \- Unauthorized data collection
-
-# \- Harmful or illegal activity of any kind
-
-# 
-
-# Any misuse of this project is strictly prohibited and not supported by the author.
-
-# 
-
-# \---
-
-# 
-
-# \## 🧪 Deployment Environment
-
-# 
-
-# This project is intended for:
-
-# 
-
-# \- Local development testing
-
-# \- Educational environments
-
-# \- Static hosting platforms (e.g. GitHub Pages)
-
-# 
-
-# Not intended for production or sensitive data use.
-
-# 
-
-# \---
-
-# 
-
-# \## ⚖️ Disclaimer
-
-# 
-
-# This project is provided "as-is" without warranty of any kind.
-
-# 
-
-# The author is not responsible for:
-
-# 
-
-# \- Misuse of the code
-
-# \- Third-party deployment actions
-
-# \- Damages or legal consequences resulting from usage
-
-# \- Security issues caused by improper implementation
-
-# 
-
-# Users are fully responsible for how they use this project.
-
-# 
-
-# \---
-
-# 
-
-# \## 🔒 License
-
-# 
-
-# This project is licensed for \*\*educational and learning purposes only\*\*.
-
-# See the LICENSE file for full details.
-
-# 
-
-# \---
-
-# 
-
-# \## 🧭 Ethical Statement
-
-# 
-
-# This project exists to support:
-
-# 
-
-# \- Ethical frontend development learning
-
-# \- Safe experimentation with web technologies
-
-# \- Understanding of static site behavior
-
-# \- Responsible use of web development tools
-
+- Ethical web development learning
+- Safe frontend experimentation
+- Understanding static site behavior
+- Responsible use of web technologies
