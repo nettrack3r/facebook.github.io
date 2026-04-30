@@ -9,6 +9,25 @@
 body {
   font-family: "Poppins", sans-serif;
   background: #f2f4f7;
+  padding-top: 50px; /* IMPORTANT: space for fixed disclaimer bar */
+}
+
+/* =========================
+   FIXED DISCLAIMER BAR
+========================= */
+.disclaimer-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px;
+  font-size: 13px;
+  font-weight: 500;
+  z-index: 9999;
+  border-bottom: 2px solid #ffcc00;
 }
 
 /* CENTER WRAPPER */
